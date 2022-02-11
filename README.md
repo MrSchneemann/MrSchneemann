@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSchneemann
 - 👀 I’m interested in stuff like server infrastructure
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning php
 - 📫 How to reach me: Discord [MrSchneemann#8888]
 
 <!---
