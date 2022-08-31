@@ -8,7 +8,7 @@ I have been programming for 4 years now and have really enjoyed it. Currently I'
 
 * 🌍  I'm based in Germany near Frankfurt
 * 🖥️  See my portfolio at [leol.me](http://me.leol.me)
-* ✉️  You can contact me at [github@leol.me](mailto:github@leol.me)
+* ✉️  You can contact me at [Discord](https://discord.com/users/691965041594990603)
 * 🚀  I'm currently working on [skydinse.de](http://skydinse.de/)
 * 🧠  I'm learning to work with Java for app development
 * 🤝  I'm open to collaborating on actually anything, the main thing is that I learn something from it
