@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Server Administrator
 --------------------------------------
 
-I have been programming for 4 years now and have really enjoyed it. Currently I'm trying my luck with normal web development and back end stuff.
+I have been programming for 5 years now and have really enjoyed it. Currently I'm trying my luck with normal web development and back end stuff.
 
 * 🌍  I'm based in Germany near Frankfurt
 * 🖥️  See my portfolio at [leol.me](http://me.leol.me)
