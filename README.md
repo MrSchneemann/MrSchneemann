@@ -37,13 +37,9 @@ src="https://img.shields.io/github/followers/mrschneemann?logo=github&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mrschneemann"><img src="https://github-readme-stats.vercel.app/api?username=mrschneemann&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="mrschneemann's GitHub stats" /></a>
+<b>My GitHub Stats</b>s
 
 <a href="http://www.github.com/mrschneemann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrschneemann&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/mrschneemann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrschneemann&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
